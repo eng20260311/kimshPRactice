@@ -1,5 +1,4 @@
 # Pull Request(PR)을 실습하기 위한 Repository(이하 Repo)입니다.
----
 
 1. 본 Repo를 본인의 GitHub에 Fork합니다.
 2. 본인의 로컬에 Clone합니다.
